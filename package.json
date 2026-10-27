@@ -1,0 +1,11 @@
+{
+  "name": "farmdirect-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Farmer to Consumer Marketplace root workspace",
+  "scripts": {
+    "dev": "npm --prefix farmdirect/frontend run dev",
+    "build": "npm --prefix farmdirect/frontend run build",
+    "install:frontend": "npm --prefix farmdirect/frontend install"
+  }
+}
